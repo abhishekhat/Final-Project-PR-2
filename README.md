@@ -1,4 +1,4 @@
-# World One - Taxi booking App UI!
+# World One - Taxi Sharing App
 
 ## ScreenShots
 
